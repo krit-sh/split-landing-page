@@ -42,8 +42,8 @@ A modern, responsive, and interactive **split-screen landing page** featuring Pl
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/split-screen-landing.git
-   cd split-screen-landing
+   git clone https://github.com/yourusername/split-landing-page.git
+   cd split-landing-page
    ```
 
 2. Install dependencies:
